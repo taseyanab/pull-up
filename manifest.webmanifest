@@ -1,0 +1,10 @@
+{
+  "name": "Pull Up",
+  "short_name": "Pull Up",
+  "description": "Atlanta tickets with no surprise fees.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFF6E8",
+  "theme_color": "#E3174D",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
